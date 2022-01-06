@@ -1,4 +1,4 @@
-## Welcome to MSCRIPT Troubleshooting Tutorial Archives
+## Welcome to MSCRIPT Learning Archives
 
 **Pages:**
 
