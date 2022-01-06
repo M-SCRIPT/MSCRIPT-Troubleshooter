@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages -TEST
+## Welcome to MSCRIPT Troubleshooting Tutorial Archives
+
+**Pages:**
+[Android Studio](https://github.com/Kiboot/MSCRIPT-Troubleshooter/android-studio)
+
 
 You can use the [editor on GitHub](https://github.com/Kiboot/MSCRIPT-Troubleshooter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
