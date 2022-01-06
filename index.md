@@ -1,7 +1,23 @@
 ## Welcome to MSCRIPT Troubleshooting Tutorial Archives
 
 **Pages:**
-[Android Studio](https://kiboot.github.io/MSCRIPT-Troubleshooter/android-studio)
+
+- [Android Studio](https://kiboot.github.io/MSCRIPT-Troubleshooter/android-studio)
+
+This is a collection of learning resources compiled by the members of the M-SCRIPT club. Contents are free and available to use.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 You can use the [editor on GitHub](https://github.com/Kiboot/MSCRIPT-Troubleshooter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
