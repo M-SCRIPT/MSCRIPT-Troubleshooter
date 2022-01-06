@@ -10,3 +10,4 @@
 1. Go to **File > Settings > Appearance & Behavior > System Settings > Memory Settings**.
 2. Adjust the IDE max heap size, gradle daemon heap size and kotlin daemon heap size to the smallest available value.
 ![Image](https://github.com/M-SCRIPT/MSCRIPT-Troubleshooter/raw/gh-pages/aa1.jpg)
+3. Restart Android IDE.![aa1](https://user-images.githubusercontent.com/49277166/148383621-d2728d75-0228-4167-8bfe-5476f0b141ea.jpg)
