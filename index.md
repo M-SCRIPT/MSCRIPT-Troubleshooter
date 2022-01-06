@@ -2,16 +2,16 @@
 
 **Pages:**
 
-- [Home](https://kiboot.github.io/MSCRIPT-Troubleshooter/index)
+- [Home](https://M-SCRIPT.github.io/MSCRIPT-Troubleshooter/index)
 
-- [Android Studio](https://kiboot.github.io/MSCRIPT-Troubleshooter/android-studio)
+- [Android Studio](https://M-SCRIPT.github.io/MSCRIPT-Troubleshooter/android-studio)
 
-- [Robotics with RaspberryPi and Arduino](https://kiboot.github.io/MSCRIPT-Troubleshooter/index)
+- [Robotics with RaspberryPi and Arduino](https://M-SCRIPT.github.io/MSCRIPT-Troubleshooter/index)
 
-- [Java for Android](https://kiboot.github.io/MSCRIPT-Troubleshooter/index)
+- [Java for Android](https://M-SCRIPT.github.io/MSCRIPT-Troubleshooter/index)
 
-- [Seminars & Workshops](https://kiboot.github.io/MSCRIPT-Troubleshooter/index)
+- [Seminars & Workshops](https://M-SCRIPT.github.io/MSCRIPT-Troubleshooter/index)
 
-- [About](https://kiboot.github.io/MSCRIPT-Troubleshooter/index)
+- [About](https://M-SCRIPT.github.io/MSCRIPT-Troubleshooter/index)
 
 This is a collection of learning resources compiled by the members of the M-SCRIPT club. Contents are free and available to use.
