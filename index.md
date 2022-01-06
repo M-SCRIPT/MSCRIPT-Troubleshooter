@@ -2,6 +2,8 @@
 
 **Pages:**
 
+- [Home](https://kiboot.github.io/MSCRIPT-Troubleshooter/index)
+
 - [Android Studio](https://kiboot.github.io/MSCRIPT-Troubleshooter/android-studio)
 
 This is a collection of learning resources compiled by the members of the M-SCRIPT club. Contents are free and available to use.
